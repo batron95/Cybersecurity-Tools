@@ -21,7 +21,7 @@ This is a simple Python script that provides basic cybersecurity utilities. The 
 ## Installation
 
 ## 1.Clone the repository:
-   ```bash
+   
            git clone https://github.com/your-username/cybersecurity-tools.git
    cd cybersecurity-tools
 
@@ -31,7 +31,7 @@ This is a simple Python script that provides basic cybersecurity utilities. The 
 ## **Usage**
 **Run the script using Python:**
 
-```bash
+
        python cybersecurity_tools.py
 
 # **You will be presented with a menu to choose the desired tool:**
