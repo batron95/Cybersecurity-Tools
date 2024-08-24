@@ -34,7 +34,7 @@ This is a simple Python script that provides basic cybersecurity utilities. The 
 
        python cybersecurity_tools.py
 
-# **You will be presented with a menu to choose the desired tool:**
+## **You will be presented with a menu to choose the desired tool:**
 
 **Cybersecurity Tools**
 1. Hash a File
@@ -68,13 +68,13 @@ Choose an option (1-4):
 **4.Exit**
   Choose this option to exit the program.
 
-** License**
+**License**
   This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contributing**
   Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
 
-** Acknowledgments**
+**Acknowledgments**
   Thanks to the open-source community for providing useful libraries like requests.
 
 Feel free to modify the `README.md` to better suit your project's needs or add additional sections as necessary!
